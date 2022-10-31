@@ -1,0 +1,24 @@
+# data
+data/*
+!data/dataset/
+data/dataset/train/*
+data/dataset/val/*
+!data/dataset/train/.gitkeep
+!data/dataset/val/.gitkeep
+!data/sources/
+data/sources/*
+!data/sources/.gitkeep
+!data/embeddings/
+data/embeddings/*
+!data/embeddings/.gitkeep
+
+# models
+models/*
+!models/.gitkeep
+
+# PyCharm
+.idea/
+
+# pycache
+src/__pycache__/
+

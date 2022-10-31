@@ -1,0 +1,6 @@
+timm==0.6.7
+pytorch-metric-learning==1.5.2
+faiss-cpu==1.7.2
+git+https://github.com/openai/CLIP.git
+pandas==1.3.5
+open_clip_torch==2.0.2
